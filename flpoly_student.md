@@ -1,5 +1,5 @@
-## Student Name (or name you would preferred to be called)
-
+## Student name (or name you would preferred to be called)
+Kyle McCrea 
 ### Fall 2022
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
@@ -16,9 +16,9 @@ DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) cu
 
 I am _passionate about_: 
 
-- Thing 1
+- Computers
 
-- Thing 2
+- Video games
 
 - Thing 3 as shown in this website <https://www.floridapoly.edu>
 
